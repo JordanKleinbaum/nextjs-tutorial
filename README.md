@@ -1,5 +1,5 @@
-## This was the NextJS tutorial provided by Vercel.
-### [Link to the tutorial docs](https://nextjs.org/learn)
+## This was the official NextJS tutorial provided by Vercel.
+### [Link to the tutorial](https://nextjs.org/learn)
 
 # FrontEnd
 - NextJS
