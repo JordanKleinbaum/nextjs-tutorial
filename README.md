@@ -17,3 +17,6 @@
 ![image](https://github.com/JordanKleinbaum/nextjs-tutorial/assets/122086411/ee142239-8d8e-4724-ada4-0f036590d812)
 # Vercel PostgreSQL Database
 ![image](https://github.com/JordanKleinbaum/nextjs-tutorial/assets/122086411/b6c8b42f-23ee-4183-99e7-4062ce83f01c)
+
+## This was the NextJS tutorial documentation provided by Vercel.
+### [Link to the tutorial docs](https://nextjs.org/learn)
